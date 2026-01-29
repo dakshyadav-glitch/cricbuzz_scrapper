@@ -70,6 +70,8 @@ This project implements a complete **ETL (Extract, Transform, Load)** pipeline f
 ## Star Schema Design
 
 The data warehouse implements a **Kimball-style star schema** optimized for cricket analytics.
+![screenshot]<img width="2816" height="1536" alt="Gemini_Generated_Image_uvqhdduvqhdduvqh" src="https://github.com/user-attachments/assets/73dc570c-0daa-4fed-996d-a86b1d985f59" />
+
 
 ### Entity Relationship Diagram
 
